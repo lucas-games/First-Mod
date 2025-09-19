@@ -1,0 +1,17 @@
+{
+	"geode": "4.8.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "lucas_and_caleb.geode_mod",
+	"name": "geode mod",
+	"version": "v1.0.0",
+	"developer": "lucas and caleb",
+	"description": "",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
