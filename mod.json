@@ -9,7 +9,10 @@
 	"id": "lucas_and_caleb.geode_mod",
 	"name": "geode mod",
 	"version": "v1.0.0",
-	"developer": "lucas and caleb",
+	"developers": [
+		"frenchfrysays",
+		"lilfrysays"
+	],
 	"description": "",
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
